@@ -1,0 +1,2 @@
+_extends: .github
+tag-template: im-feeling-lucky-$NEXT_MINOR_VERSION
